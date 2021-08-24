@@ -2,5 +2,18 @@ body
 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: royalblue;
+    color: #333;
+    font-size: 16px;
+}
+
+#seccion
+{
+    border: solid black;
+    margin: 0;
+    padding: 1em;   
+}
+
+#seccion p
+{
+    text-align: left;
 }
